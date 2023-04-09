@@ -2,7 +2,8 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Google someday
-- 📫 How to reach me @vaibhav_satyanarayan
+- 📫 Reach me at vaibhavsatyanarayan@gmail.com
+- 
 
 <!---
 VaibhavSatyanarayanN/VaibhavSatyanarayanN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
